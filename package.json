@@ -12,7 +12,6 @@
     "start": "nodemon --exec babel-node src/index.js",
     "build": "babel src --out-dir dist"
   },
-  "type":"module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atlp-rwanda/space-bn-backend.git"
